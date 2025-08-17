@@ -1,0 +1,2929 @@
+{
+    "items": "38",
+    "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+    "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+    "feed": [
+        {
+            "title": "You're wrong about the GENIUS Act",
+            "url": "https://cointelegraph.com/news/wrong-genius-act",
+            "time_published": "20250815T133000",
+            "authors": [
+                "Zachary Kelman"
+            ],
+            "summary": "Critics misunderstand the GENIUS Act's actual influence. It doesn't free Bitcoin from taxes but breaks Wall Street's stranglehold on dollar clearing.",
+            "banner_image": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2025-08/019864c0-1358-75a8-b865-9d91c784abc6",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.838487"
+                }
+            ],
+            "overall_sentiment_score": 0.08005,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AFG",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "-0.004256",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.042048",
+                    "ticker_sentiment_score": "-0.168656",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.08398",
+                    "ticker_sentiment_score": "-0.004256",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.248259",
+                    "ticker_sentiment_score": "0.101438",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin is the 'perfect asset' for the next 1,000 years: Willy Woo",
+            "url": "https://cointelegraph.com/news/bitcoin-the-perfect-asset-for-1000-years-willy-woo",
+            "time_published": "20250811T041116",
+            "authors": [
+                "Brayden Lindrea"
+            ],
+            "summary": "Bitcoin is the \"perfect asset\" for the next 1,000 years, but it needs far more flows to compete with the US dollar and gold, a Bitcoin OG said.",
+            "banner_image": "https://s3.cointelegraph.com/uploads/2025-08/01989742-e862-75da-babf-08b1c753a90b",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.169323,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.134968",
+                    "ticker_sentiment_score": "0.132907",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.201244",
+                    "ticker_sentiment_score": "0.183463",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.972869",
+                    "ticker_sentiment_score": "0.367394",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.067727",
+                    "ticker_sentiment_score": "0.141465",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: Stablecoins Are About to Soar. Here's Why.",
+            "url": "https://www.fool.com/investing/2025/08/10/prediction-stablecoins-are-about-to-soar-heres-why/",
+            "time_published": "20250810T103000",
+            "authors": [
+                "Emma Newbery"
+            ],
+            "summary": "New legislation may mark a tipping point for stablecoins.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824943%2Finvestor-smiling-phone-at-home.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Economy - Fiscal",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.650727"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.181686,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PYPL",
+                    "relevance_score": "0.117486",
+                    "ticker_sentiment_score": "0.074544",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.078482",
+                    "ticker_sentiment_score": "0.064894",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.039289",
+                    "ticker_sentiment_score": "0.119352",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.194554",
+                    "ticker_sentiment_score": "0.149919",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.039289",
+                    "ticker_sentiment_score": "0.246542",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.269776",
+                    "ticker_sentiment_score": "0.301734",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:UST",
+                    "relevance_score": "0.039289",
+                    "ticker_sentiment_score": "0.10335",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Coinbase Debuts 'Embedded' Crypto Wallet for Developers-With Stablecoin Focus",
+            "url": "https://decrypt.co/333681/coinbase-debuts-embedded-crypto-wallet-for-developers-with-stablecoin-focus",
+            "time_published": "20250805T225751",
+            "authors": [
+                "Mat Di Salvo"
+            ],
+            "summary": "The new product gives builders the infrastructure to seamlessly integrate wallets into their apps.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.972193"
+                }
+            ],
+            "overall_sentiment_score": 0.1743,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.657184",
+                    "ticker_sentiment_score": "0.248852",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.09439",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.09439",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.187463",
+                    "ticker_sentiment_score": "0.066135",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Stocks Sell Off, Gold Rallies On Tariff Turmoil, Weak Jobs Data: What's Moving Markets Friday? - Apple  ( NASDAQ:AAPL ) ",
+            "url": "https://www.benzinga.com/markets/macro-economic-events/25/08/46802730/markets-today-wall-street-friday-gold-tariffs-donald-trump",
+            "time_published": "20250801T165659",
+            "authors": [
+                "Piero Cingari"
+            ],
+            "summary": "It's a rough start to the new month for Wall Street, as major U.S. stock indices plunged by midday Friday, setting the stage for a negative weekly close. SPY ETF is breaking past support. Check the chart here.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/08/01/Unstable-stock-marketisk-Alerts-And-Fina.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.2"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.961735"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Real Estate & Construction",
+                    "relevance_score": "0.2"
+                }
+            ],
+            "overall_sentiment_score": -0.014611,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "KLAC",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.316963",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "ROKU",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.171688",
+                    "ticker_sentiment_score": "-0.030102",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CVX",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "D",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SYK",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ARES-P-B",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "EMN",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CL",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IR",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HR",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IVZ",
+                    "relevance_score": "0.057628",
+                    "ticker_sentiment_score": "0.248012",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "LIN",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.316963",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MELI",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MIR",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "XOM",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "REGN",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.258533",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.114956",
+                    "ticker_sentiment_score": "0.258533",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Despite Their Name, Stablecoins Remain a Risky Investment. Here Are 3 Concerns Investors Should Keep Top of Mind When Investing in This Soaring Asset Class.",
+            "url": "https://www.fool.com/investing/2025/08/01/despite-their-name-stablecoins-remain-a-risky-inve/",
+            "time_published": "20250801T073000",
+            "authors": [
+                "Dominic Basulto"
+            ],
+            "summary": "How \"stable\" are stablecoins? You might be surprised at the potential risks involved.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F827063%2Fanxious-investor-with-smartphone.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                }
+            ],
+            "overall_sentiment_score": 0.055744,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "PYPL",
+                    "relevance_score": "0.221616",
+                    "ticker_sentiment_score": "0.081067",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.089629",
+                    "ticker_sentiment_score": "0.058919",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRCL",
+                    "relevance_score": "0.089629",
+                    "ticker_sentiment_score": "-0.15968",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.13409",
+                    "ticker_sentiment_score": "0.071758",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.13409",
+                    "ticker_sentiment_score": "0.048787",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:USDT",
+                    "relevance_score": "0.044885",
+                    "ticker_sentiment_score": "0.081479",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:UST",
+                    "relevance_score": "0.044885",
+                    "ticker_sentiment_score": "-0.093782",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin Outlook: 'Halving Correction Expected In September May Not Occur'",
+            "url": "https://www.benzinga.com/markets/cryptocurrency/25/07/46764216/bitcoin-outlook-halving-correction-expected-in-september-may-not-occur",
+            "time_published": "20250731T155124",
+            "authors": [
+                "Julia Khandoshko"
+            ],
+            "summary": "I'll start by saying that I recently noticed something on Finviz, a website I often use to find information about American companies traded on U.S. stock exchanges. There is a section on futures that displays the main assets traded on the U.S. market.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/31/image_0.png?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Trading",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.9996"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                }
+            ],
+            "overall_sentiment_score": 0.12738,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "0.142473",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "PLSQF",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "0.256573",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "SCBFF",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "0.002998",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:AUD",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "-0.001971",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:CHF",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "-0.001971",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:JPY",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "-0.001971",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:EUR",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "-0.001971",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:GBP",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "-0.001971",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.046633",
+                    "ticker_sentiment_score": "-0.001971",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.757834",
+                    "ticker_sentiment_score": "0.156371",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "JPMorgan Partners With Coinbase To Expand Crypto Access For 80M Customers - JPMorgan Chase  ( NYSE:JPM ) ",
+            "url": "https://www.benzinga.com/crypto/cryptocurrency/25/07/46721901/jpmorgan-partners-with-coinbase-to-expand-crypto-access-for-80m-customers",
+            "time_published": "20250730T135221",
+            "authors": [
+                "Murtuza J Merchant"
+            ],
+            "summary": "JPMorgan's blockchain unit Onyx and JPM Coin have laid groundwork for gradual digital asset adoption. The integration marks the first time a major U.S. bank allows loyalty points conversion into a stablecoin. The market's back, and these 3 income stocks are thriving. See them here\u2192",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/30/Bitcoin-On-A-Stack-Of-Coins-With-Jpmorga.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.928139"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.317919,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.622414",
+                    "ticker_sentiment_score": "0.37636",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "PLSQF",
+                    "relevance_score": "0.087824",
+                    "ticker_sentiment_score": "0.267743",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.340915",
+                    "ticker_sentiment_score": "0.31475",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.177915",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:LINK",
+                    "relevance_score": "0.174587",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Charles Schwab and Dow have been highlighted as Zacks Bull and Bear of the Day",
+            "url": "https://www.zacks.com/stock/news/2628476/charles-schwab-and-dow-have-been-highlighted-as-zacks-bull-and-bear-of-the-day",
+            "time_published": "20250728T120500",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "SCHW hits record highs on soaring revenue, EPS, and asset growth???plus a $20B buyback and bullish analyst revisions.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ac/1026.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.9973"
+                },
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.779048"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.223938,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SCHW",
+                    "relevance_score": "0.114227",
+                    "ticker_sentiment_score": "0.124439",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FI",
+                    "relevance_score": "0.019102",
+                    "ticker_sentiment_score": "0.212384",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "DOW",
+                    "relevance_score": "0.057261",
+                    "ticker_sentiment_score": "-0.071017",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.262522",
+                    "ticker_sentiment_score": "0.27612",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRCL",
+                    "relevance_score": "0.1331",
+                    "ticker_sentiment_score": "0.168486",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.038192",
+                    "ticker_sentiment_score": "0.16463",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.019102",
+                    "ticker_sentiment_score": "-0.069045",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.019102",
+                    "ticker_sentiment_score": "-0.069045",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Coinbase vs. Circle: Which Stablecoin Powerhouse Is a Safer Bet?",
+            "url": "https://www.zacks.com/stock/news/2618270/coinbase-vs-circle-which-stablecoin-powerhouse-is-a-safer-bet",
+            "time_published": "20250725T173100",
+            "authors": [
+                "Tanuka De"
+            ],
+            "summary": "COIN's broader revenue streams and strategic U.S. focus may offer steadier returns than CRCL's stablecoin-centric model.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/3d/115419.jpg?v=1128313999",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.929393"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.9973"
+                }
+            ],
+            "overall_sentiment_score": 0.376594,
+            "overall_sentiment_label": "Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.439786",
+                    "ticker_sentiment_score": "0.430462",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRCL",
+                    "relevance_score": "0.191776",
+                    "ticker_sentiment_score": "0.268636",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FI",
+                    "relevance_score": "0.038717",
+                    "ticker_sentiment_score": "0.228233",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.077343",
+                    "ticker_sentiment_score": "0.171313",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.038717",
+                    "ticker_sentiment_score": "-0.072815",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.038717",
+                    "ticker_sentiment_score": "-0.072815",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Got $1,000? 2 Top Cryptocurrencies to Buy and Hold Forever",
+            "url": "https://www.fool.com/investing/2025/07/25/got-1000-2-top-cryptocurrencies-to-buy-and-hold-fo/",
+            "time_published": "20250725T101500",
+            "authors": [
+                "Will Ebiefung"
+            ],
+            "summary": "Over the long term, few asset classes have generated life-changing returns as quickly as cryptocurrency. And early investors who managed to stay the course have turned relatively modest positions into millions. While investors shouldn't necessarily expect a repeat of the quadruple-digit annual ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825828%2Fhappy-stock-investor-holding-smartphone.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.769861"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.284555,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.065506",
+                    "ticker_sentiment_score": "0.189465",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.318897",
+                    "ticker_sentiment_score": "0.067942",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.634063",
+                    "ticker_sentiment_score": "0.422576",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:SOL",
+                    "relevance_score": "0.130571",
+                    "ticker_sentiment_score": "0.092314",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Billionaires Sell Nvidia Stock and Buy a BlackRock ETF Wall Street Experts Say Can Soar Up to 8,595%",
+            "url": "https://www.fool.com/investing/2025/07/25/billionaires-sell-nvidia-stock-buy-etf-soar-8595/",
+            "time_published": "20250725T084200",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "These hedge fund billionaires sold Nvidia stock and added to their positions in the iShares Bitcoin Trust in the first quarter.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F826584%2Fgrowth-23.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.212115,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "FORR",
+                    "relevance_score": "0.040553",
+                    "ticker_sentiment_score": "-0.011802",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.040553",
+                    "ticker_sentiment_score": "0.010697",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.491399",
+                    "ticker_sentiment_score": "0.430404",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.040553",
+                    "ticker_sentiment_score": "0.01977",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.040553",
+                    "ticker_sentiment_score": "0.055827",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.813843",
+                    "ticker_sentiment_score": "0.356949",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "US crypto legislation drives $4B surge in stablecoin supply",
+            "url": "https://cointelegraph.com/news/us-crypto-legislation-4b-surge-stablecoin-supply",
+            "time_published": "20250724T235848",
+            "authors": [
+                "Nate Kostar"
+            ],
+            "summary": "Regulatory clarity is opening the door for banks, asset managers, and crypto firms to roll out new stablecoin products.",
+            "banner_image": "https://s3.cointelegraph.com/uploads/2025-07/01983ed7-3f2d-7a07-8d10-2f0d12b161d3",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.495866"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.999989"
+                }
+            ],
+            "overall_sentiment_score": 0.272722,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.059488",
+                    "ticker_sentiment_score": "0.114",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.059488",
+                    "ticker_sentiment_score": "0.114",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WT",
+                    "relevance_score": "0.118647",
+                    "ticker_sentiment_score": "0.220762",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.059488",
+                    "ticker_sentiment_score": "0.003003",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.118647",
+                    "ticker_sentiment_score": "0.142227",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.059488",
+                    "ticker_sentiment_score": "0.074996",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Jamie Dimon Once Called Bitcoin A 'Fraud'-Now JPMorgan Might Lend Against It",
+            "url": "https://www.benzinga.com/crypto/cryptocurrency/25/07/46543876/jamie-dimon-once-called-bitcoin-a-fraud-now-jpmorgan-might-lend-against-it",
+            "time_published": "20250722T132550",
+            "authors": [
+                "Murtuza J Merchant"
+            ],
+            "summary": "Rivals like Goldman Sachs remain cautious, avoiding crypto as collateral while JPMorgan prepares to bridge the gap. Any crypto loan program would require JPMorgan to partner with third-party custodians like Coinbase for asset security.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/22/Jamie-Dimon-Trying-To-Undermine-Trumps-P_0.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "News",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.838487"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.972756"
+                }
+            ],
+            "overall_sentiment_score": 0.17481,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "TRMNF",
+                    "relevance_score": "0.074926",
+                    "ticker_sentiment_score": "0.174988",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.149192",
+                    "ticker_sentiment_score": "-0.136218",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.222157",
+                    "ticker_sentiment_score": "0.070376",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.149192",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.222157",
+                    "ticker_sentiment_score": "0.216813",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.361802",
+                    "ticker_sentiment_score": "0.109245",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.222157",
+                    "ticker_sentiment_score": "0.265056",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Crypto Pushes Deeper Into S&P 500 as Block Follows Coinbase Into Index",
+            "url": "https://decrypt.co/330962/crypto-pushes-deeper-into-the-sp-500-as-block-follows-coinbase-into-index",
+            "time_published": "20250721T042713",
+            "authors": [
+                "Vince Dioquino"
+            ],
+            "summary": "The fintech firm will join the benchmark index on Wednesday, two months after crypto exchange Coinbase made its debut.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/10/shutterstock_1425729497-scaled-gID_7.jpeg",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.266143"
+                },
+                {
+                    "topic": "Energy & Transportation",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.838487"
+                }
+            ],
+            "overall_sentiment_score": 0.148554,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BSQKZ",
+                    "relevance_score": "0.076602",
+                    "ticker_sentiment_score": "0.114371",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.076602",
+                    "ticker_sentiment_score": "-0.122495",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "HES",
+                    "relevance_score": "0.152499",
+                    "ticker_sentiment_score": "-0.075436",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.076602",
+                    "ticker_sentiment_score": "0.075828",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.663719",
+                    "ticker_sentiment_score": "-0.092973",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Trump Signs GENIUS Act Into Law, Ushering In Crypto's Integration With US Economy",
+            "url": "https://decrypt.co/330836/trump-signs-genius-act-into-law-ushering-crypto-integration-us-economy",
+            "time_published": "20250718T192727",
+            "authors": [
+                "Sander Lutz"
+            ],
+            "summary": "President Trump signed the stablecoin bill at a flashy ceremony attended by industry leaders, just a day after the legislation was passed by Congress.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Trump-decrypt-style-10-gID_7.png",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.928139"
+                }
+            ],
+            "overall_sentiment_score": 0.312623,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.04912",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.04912",
+                    "ticker_sentiment_score": "0.166032",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.098054",
+                    "ticker_sentiment_score": "0.137993",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Coinbase Doesn't Custody All of Strategy's Bitcoin-So Who Does?",
+            "url": "https://decrypt.co/330556/coinbase-custody-strategy-bitcoin-who-does",
+            "time_published": "20250718T161603",
+            "authors": [
+                "Stacy Elliott"
+            ],
+            "summary": "Strategy's $72B Bitcoin stash is spread across multiple secret custodians, with only Coinbase confirmed and Fidelity potentially holding 70,000 BTC.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/michael-saylor-bitcoin-lightning-x-twitter-gID_7.png",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.108179"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.769861"
+                }
+            ],
+            "overall_sentiment_score": 0.037958,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.176502",
+                    "ticker_sentiment_score": "-0.078171",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GMOYF",
+                    "relevance_score": "0.044469",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "ICE",
+                    "relevance_score": "0.044469",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SBNY",
+                    "relevance_score": "0.044469",
+                    "ticker_sentiment_score": "-0.103154",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BKKT",
+                    "relevance_score": "0.21961",
+                    "ticker_sentiment_score": "0.172905",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.384233",
+                    "ticker_sentiment_score": "-0.00808",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:JPY",
+                    "relevance_score": "0.044469",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.088799",
+                    "ticker_sentiment_score": "-0.029885",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.597088",
+                    "ticker_sentiment_score": "0.00355",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Amex AXP Q2 2025 Earnings Call Transcript",
+            "url": "https://www.fool.com/earnings/call-transcripts/2025/07/18/amex-axp-q2-2025-earnings-call-transcript/",
+            "time_published": "20250718T152208",
+            "authors": [
+                "Motley Fool Transcribing"
+            ],
+            "summary": "Image source: The Motley Fool.Friday, July 18, 2025 at 8:30 a.m. ETChairman and Chief Executive Officer - Stephen J. SqueriContinue reading ...",
+            "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/a2a40ac227551191f40e319646e58c421fd8b8c0-400x427.png",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Mergers & Acquisitions",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.999937"
+                }
+            ],
+            "overall_sentiment_score": 0.27851,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BCS",
+                    "relevance_score": "0.004425",
+                    "ticker_sentiment_score": "0.214635",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "C",
+                    "relevance_score": "0.0177",
+                    "ticker_sentiment_score": "0.116196",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BAC",
+                    "relevance_score": "0.004425",
+                    "ticker_sentiment_score": "0.214635",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.004425",
+                    "ticker_sentiment_score": "0.060757",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WFC",
+                    "relevance_score": "0.004425",
+                    "ticker_sentiment_score": "0.214635",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MS",
+                    "relevance_score": "0.004425",
+                    "ticker_sentiment_score": "0.214635",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.030969",
+                    "ticker_sentiment_score": "0.120277",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.004425",
+                    "ticker_sentiment_score": "0.214635",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.022124",
+                    "ticker_sentiment_score": "0.104018",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "BNXYF",
+                    "relevance_score": "0.004425",
+                    "ticker_sentiment_score": "0.087108",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.004425",
+                    "ticker_sentiment_score": "0.175821",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.004425",
+                    "ticker_sentiment_score": "0.063173",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.004425",
+                    "ticker_sentiment_score": "0.063173",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Investment Ideas feature highlights: Coinbase Global, Galaxy Digital, BlackRock, IBIT, Robinhood, Interactive Brokers and Alphabet",
+            "url": "https://www.zacks.com/stock/news/2583078/zacks-investment-ideas-feature-highlights-coinbase-global-galaxy-digital-blackrock-ibit-robinhood-interactive-brokers-and-alphabet",
+            "time_published": "20250715T151000",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "Bitcoin hits $123K with COIN, BLK, HOOD, and IBKR set to gain as ETF access, regulation, and momentum drive the next wave.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8a/62773.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Life Sciences",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.986564"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.145871,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.054359",
+                    "ticker_sentiment_score": "0.233108",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "IBKR",
+                    "relevance_score": "0.162073",
+                    "ticker_sentiment_score": "0.109121",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NNOX",
+                    "relevance_score": "0.054359",
+                    "ticker_sentiment_score": "0.086031",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.162073",
+                    "ticker_sentiment_score": "0.05707",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.054359",
+                    "ticker_sentiment_score": "-0.103036",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.660192",
+                    "ticker_sentiment_score": "0.187822",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:NANO",
+                    "relevance_score": "0.054359",
+                    "ticker_sentiment_score": "0.086031",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Prediction: XRP  ( Ripple )  Will Be Worth This Much in 10 Years",
+            "url": "https://www.fool.com/investing/2025/07/15/xrp-ripple-will-be-worth-this-much-in-10-years/",
+            "time_published": "20250715T072500",
+            "authors": [
+                "Trevor Jennewine"
+            ],
+            "summary": "XRP could triple in value over the next decade if stablecoin regulations and spot XRP ETFs legitimize the cryptocurrency.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824955%2Fgrowth-12.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.998626"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.891286"
+                }
+            ],
+            "overall_sentiment_score": 0.138505,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.053153",
+                    "ticker_sentiment_score": "0.13598",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MORN",
+                    "relevance_score": "0.053153",
+                    "ticker_sentiment_score": "0.037798",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SCBFF",
+                    "relevance_score": "0.053153",
+                    "ticker_sentiment_score": "0.056979",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.158519",
+                    "ticker_sentiment_score": "0.073029",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.10607",
+                    "ticker_sentiment_score": "0.28421",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin's Unstoppable Rise: 5 Reasons $150k is Next",
+            "url": "https://www.zacks.com/commentary/2580538/bitcoins-unstoppable-rise-5-reasons-150k-is-next",
+            "time_published": "20250714T190300",
+            "authors": [
+                "Andrew Rocco"
+            ],
+            "summary": "As market technicians now eye a $150k price target, Bitcoin's ongoing momentum suggests that its remarkable growth story is far from over, reminding investors that the true opportunity often lies where the majority hesitates.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8a/62773.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.95493"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                }
+            ],
+            "overall_sentiment_score": 0.153056,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.067158",
+                    "ticker_sentiment_score": "0.195664",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.133841",
+                    "ticker_sentiment_score": "0.125142",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "IBKR",
+                    "relevance_score": "0.133841",
+                    "ticker_sentiment_score": "0.125142",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.067158",
+                    "ticker_sentiment_score": "-0.067584",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.726705",
+                    "ticker_sentiment_score": "0.203671",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Bitcoin Just Hit a New Record High. 5 Reasons It Could Soar Even Further in the Second Half of 2025.",
+            "url": "https://www.fool.com/investing/2025/07/14/bitcoin-hit-a-new-record-high-still-soar/",
+            "time_published": "20250714T040140",
+            "authors": [
+                "Lyle Daly"
+            ],
+            "summary": "Just two months after reaching an all-time high, Bitcoin ( CRYPTO: BTC ) has done it again. The leading cryptocurrency surpassed $115,000 on July 10, continuing a remarkable run. It's up 25% in 2025 at the time of this writing ( July 10 ) and 1,150% over the last five years.Because of how ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824690%2Fgettyimages-1347052515-1201x633-65d4be6.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.99737"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.177945,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.051001",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "SCBFF",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.253",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "GS",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "-0.126929",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.056407",
+                    "ticker_sentiment_score": "0.124001",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.276491",
+                    "ticker_sentiment_score": "0.217837",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.934176",
+                    "ticker_sentiment_score": "0.294471",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Where Will ARK 21Shares Bitcoin ETF Be in 5 Years?",
+            "url": "https://www.fool.com/investing/2025/07/12/where-will-ark-21shares-bitcoin-etf-be-in-5-years/",
+            "time_published": "20250712T123100",
+            "authors": [
+                "Anders Bylund"
+            ],
+            "summary": "Get the facts on fees, features, and expectations for the next few years.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824651%2Fbitcoin-symbol-on-red-question-mark.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.128183,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.040622",
+                    "ticker_sentiment_score": "0.017847",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.040622",
+                    "ticker_sentiment_score": "0.045349",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.860346",
+                    "ticker_sentiment_score": "0.220169",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Is the crypto market entering a new supercycle? Here are 5 ways to know",
+            "url": "https://cointelegraph.com/news/is-the-crypto-market-entering-a-new-supercycle-here-are-5-ways-to-know",
+            "time_published": "20250711T193436",
+            "authors": [
+                "Marcel Pechman"
+            ],
+            "summary": "As Bitcoin price hits new highs and altcoins soar, traders are curious to know if a new super cycle has begun.",
+            "banner_image": "https://s3.cointelegraph.com/uploads/2025-07/0197fad6-21f1-7b60-8f70-824d85710622",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.576289"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Economy - Macro",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": 0.165889,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.06697",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GOOG",
+                    "relevance_score": "0.06697",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.06697",
+                    "ticker_sentiment_score": "0.03116",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.199037",
+                    "ticker_sentiment_score": "0.126077",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.443626",
+                    "ticker_sentiment_score": "0.092573",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Ripple's RLUSD launches on Transak as market cap hits $500M",
+            "url": "https://cointelegraph.com/news/ripple-rlusd-stablecoin-transak-market-cap-500-million",
+            "time_published": "20250709T125936",
+            "authors": [
+                "Helen Partz"
+            ],
+            "summary": "Launched in late 2024, Ripple's enterprise-focused RLUSD stablecoin has hit a $500 million market cap in less than seven months.",
+            "banner_image": "https://s3.cointelegraph.com/uploads/2025-07/0197ef24-4b17-7786-95e7-c629c02df0e9",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.838487"
+                }
+            ],
+            "overall_sentiment_score": 0.345564,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "0.174834",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.242084",
+                    "ticker_sentiment_score": "0.398607",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "0.155031",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.162802",
+                    "ticker_sentiment_score": "0.155031",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:UNI",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "0.174834",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:USDT",
+                    "relevance_score": "0.08183",
+                    "ticker_sentiment_score": "0.118377",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "5 Reasons to Buy Ethereum Before 2030",
+            "url": "https://www.fool.com/investing/2025/07/09/5-reasons-to-buy-ethereum-before-2030/",
+            "time_published": "20250709T110500",
+            "authors": [
+                "Leo Sun"
+            ],
+            "summary": "The world's second-largest cryptocurrency is still a worthwhile investment.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824127%2Fethereum-virtual-money-getty-71317-1.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.99489"
+                }
+            ],
+            "overall_sentiment_score": 0.126866,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.048133",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.048133",
+                    "ticker_sentiment_score": "0.044196",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.190793",
+                    "ticker_sentiment_score": "0.019268",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.834963",
+                    "ticker_sentiment_score": "0.253582",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ADA",
+                    "relevance_score": "0.096091",
+                    "ticker_sentiment_score": "0.026404",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Falcon USD stablecoin loses dollar peg amid liquidity, collateral concerns",
+            "url": "https://cointelegraph.com/news/falcon-usd-stablecoin-depegs-liquidity-collateral-concerns",
+            "time_published": "20250708T142320",
+            "authors": [
+                "Adrian Zmudzinski"
+            ],
+            "summary": "Falcon Finance's Falcon USD ( USDf ) lost its dollar peg on Tuesday amid falling liquidity, collateral quality concerns and accusations of mismanagement.",
+            "banner_image": "https://s3.cointelegraph.com/uploads/2025-07/0197ea40-fa82-7491-9e52-570a03172387",
+            "source": "Cointelegraph",
+            "category_within_source": "n/a",
+            "source_domain": "cointelegraph.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.972193"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                }
+            ],
+            "overall_sentiment_score": -0.16185,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.069294",
+                    "ticker_sentiment_score": "-0.009135",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.272029",
+                    "ticker_sentiment_score": "-0.144535",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.138066",
+                    "ticker_sentiment_score": "-0.102839",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:USDT",
+                    "relevance_score": "0.069294",
+                    "ticker_sentiment_score": "-0.008065",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "This Formerly High-Flying Cryptocurrency Has the Potential to Become the New Bitcoin, According to Tom Lee of Fundstrat",
+            "url": "https://www.fool.com/investing/2025/07/08/high-flying-cryptocurrency-new-bitcoin/",
+            "time_published": "20250708T113000",
+            "authors": [
+                "Dominic Basulto"
+            ],
+            "summary": "The Bitcoin treasury company model pioneered by Strategy is going fully mainstream. In fact, Wall Street is now adapting this business model for other cryptocurrencies beyond just Bitcoin.On June 30, Tom Lee of Fundstrat announced that he was becoming the chairman of BitMine Immersion ...",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F823852%2Fshocked-investor-with-smartphone.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                }
+            ],
+            "overall_sentiment_score": 0.282477,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "BMNR",
+                    "relevance_score": "0.051886",
+                    "ticker_sentiment_score": "-0.00399",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.051886",
+                    "ticker_sentiment_score": "0.158981",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.103554",
+                    "ticker_sentiment_score": "0.128454",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.565145",
+                    "ticker_sentiment_score": "0.390602",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.921091",
+                    "ticker_sentiment_score": "0.468745",
+                    "ticker_sentiment_label": "Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Elon Musk Is 100% Correct, Says Balaji Srinivasan: America Is 'Broke' And There Is 'No Fix' But Is It A Win-Win For Bitcoin?",
+            "url": "https://www.benzinga.com/markets/macro-economic-events/25/07/46213919/elon-musk-is-100-correct-says-balaji-srinivasan-america-is-broke-and-there-is-no-fi",
+            "time_published": "20250702T072539",
+            "authors": [
+                "Aniket Verma"
+            ],
+            "summary": "Silicon Valley investor and economic commentator Balaji Srinivasan said Tuesday the U.S. is heading towards a national bankruptcy, with no possible solution to its debt crisis. What Happened: In an X post, Srinivasan stated that the U.S. is \"broke\", with the real debt exceeding $175 trillion.",
+            "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/02/Domino-Effect-Impacts-Some-Of-The-Heap-O.jpeg?width=1200&height=800&fit=crop",
+            "source": "Benzinga",
+            "category_within_source": "Markets",
+            "source_domain": "www.benzinga.com",
+            "topics": [
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.451494"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.161647"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.158519"
+                }
+            ],
+            "overall_sentiment_score": -0.273447,
+            "overall_sentiment_label": "Somewhat-Bearish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.110973",
+                    "ticker_sentiment_score": "-0.347305",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.110973",
+                    "ticker_sentiment_score": "-0.099235",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.219809",
+                    "ticker_sentiment_score": "-0.111008",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.597525",
+                    "ticker_sentiment_score": "-0.049913",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Will XRP Ever Reach $10?",
+            "url": "https://www.fool.com/investing/2025/07/01/will-xrp-ever-reach-10/",
+            "time_published": "20250701T101500",
+            "authors": [
+                "Dominic Basulto"
+            ],
+            "summary": "XRP ( XRP 1.29% ) is still just a $2 crypto, but hope springs eternal in the crypto market. So will XRP ever reach $10? The answer is \"yes,\" but it will likely take several years before it happens. Obviously, a lot needs to go right for XRP to quintuple in price.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F823311%2Ffist-pump-smartphone.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.9545"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.928769"
+                }
+            ],
+            "overall_sentiment_score": 0.117705,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.141726",
+                    "ticker_sentiment_score": "0.040339",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "NNAX",
+                    "relevance_score": "0.047465",
+                    "ticker_sentiment_score": "-0.089896",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.094762",
+                    "ticker_sentiment_score": "0.07432",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.047465",
+                    "ticker_sentiment_score": "0.061133",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Coinbase is the best performing stock in the S&P 500 in June, and may have even more room to run",
+            "url": "https://www.cnbc.com/2025/06/27/coinbase-is-best-performing-stock-in-sp-500-in-june-and-may-move-higher.html",
+            "time_published": "20250627T184015",
+            "authors": [],
+            "summary": "Coinbase is on pace for its third straight monthly gain, the first time it's put together a three-month rally since the end of 2023.",
+            "banner_image": null,
+            "source": "CNBC",
+            "category_within_source": "Investing",
+            "source_domain": "www.cnbc.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.986714"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.99489"
+                }
+            ],
+            "overall_sentiment_score": 0.211906,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.051111",
+                    "ticker_sentiment_score": "-0.251574",
+                    "ticker_sentiment_label": "Somewhat-Bearish"
+                },
+                {
+                    "ticker": "SHOP",
+                    "relevance_score": "0.051111",
+                    "ticker_sentiment_score": "0.039668",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.051111",
+                    "ticker_sentiment_score": "0.039668",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRCW",
+                    "relevance_score": "0.051111",
+                    "ticker_sentiment_score": "0.039668",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.595343",
+                    "ticker_sentiment_score": "0.324719",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRCL",
+                    "relevance_score": "0.051111",
+                    "ticker_sentiment_score": "0.078483",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.051111",
+                    "ticker_sentiment_score": "0.058563",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.102013",
+                    "ticker_sentiment_score": "0.066127",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "5 Crypto-Centric Stocks in Focus on Recent Positive Developments",
+            "url": "https://www.zacks.com/stock/news/2554397/5-crypto-centric-stocks-in-focus-on-recent-positive-developments",
+            "time_published": "20250626T120900",
+            "authors": [
+                "Nalak Das"
+            ],
+            "summary": "Crypto stocks COIN, HOOD, HUT, IREN, MARA rally as Trump's ceasefire deal, a new Senate bill to reduce SEC oversight and stablecoin bill fuel sector optimism.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/f9/922.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.998626"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.333333"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.891286"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "1.0"
+                }
+            ],
+            "overall_sentiment_score": 0.274938,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "HOOD",
+                    "relevance_score": "0.202932",
+                    "ticker_sentiment_score": "0.240023",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.268294",
+                    "ticker_sentiment_score": "0.302322",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "HUT",
+                    "relevance_score": "0.202932",
+                    "ticker_sentiment_score": "0.167188",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.068306",
+                    "ticker_sentiment_score": "0.132474",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.068306",
+                    "ticker_sentiment_score": "0.088366",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.202932",
+                    "ticker_sentiment_score": "0.174996",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.034185",
+                    "ticker_sentiment_score": "0.109482",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:DOGE",
+                    "relevance_score": "0.034185",
+                    "ticker_sentiment_score": "0.109482",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Zacks Investment Ideas feature highlights: Coinbase, Circle Internet, Visa, American Express and Shopify",
+            "url": "https://www.zacks.com/stock/news/2554224/zacks-investment-ideas-feature-highlights-coinbase-circle-internet-visa-american-express-and-shopify",
+            "time_published": "20250626T075700",
+            "authors": [
+                "Zacks Equity Research"
+            ],
+            "summary": "COIN hits a new 52-week high as stablecoin growth, regulatory wins, and analyst upgrades drive bullish momentum.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/af/643.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.413559"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.928139"
+                }
+            ],
+            "overall_sentiment_score": 0.336401,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SHOP",
+                    "relevance_score": "0.202932",
+                    "ticker_sentiment_score": "0.141633",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.202932",
+                    "ticker_sentiment_score": "0.141633",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.877135",
+                    "ticker_sentiment_score": "0.556445",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.202932",
+                    "ticker_sentiment_score": "0.141633",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRCL",
+                    "relevance_score": "0.202932",
+                    "ticker_sentiment_score": "0.168746",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.068306",
+                    "ticker_sentiment_score": "0.187844",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.202932",
+                    "ticker_sentiment_score": "0.15514",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Is Coinbase  ( COIN )  Stock Poised for Higher Highs?",
+            "url": "https://www.zacks.com/commentary/2554031/is-coinbase-coin-stock-poised-for-higher-highs",
+            "time_published": "20250625T204000",
+            "authors": [
+                "Shaun Pruitt"
+            ],
+            "summary": "Many positive catalysts have pushed Coinbase (COIN) stock higher, which hit a new 52-week high of $369 a share on Wednesday.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bd/90871.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.684621"
+                },
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.928139"
+                }
+            ],
+            "overall_sentiment_score": 0.326521,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "SHOP",
+                    "relevance_score": "0.149192",
+                    "ticker_sentiment_score": "0.118726",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AXP",
+                    "relevance_score": "0.149192",
+                    "ticker_sentiment_score": "0.118726",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.074926",
+                    "ticker_sentiment_score": "0.093406",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.890123",
+                    "ticker_sentiment_score": "0.562183",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.149192",
+                    "ticker_sentiment_score": "0.118726",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRCL",
+                    "relevance_score": "0.149192",
+                    "ticker_sentiment_score": "0.2193",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.074926",
+                    "ticker_sentiment_score": "0.174988",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.222157",
+                    "ticker_sentiment_score": "0.166371",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Coinbase Stock 'Misunderstood', Could Skyrocket on Stablecoin Boom: Bernstein",
+            "url": "https://decrypt.co/326953/coinbase-misunderstood-price-should-rocket-thanks-genius-act-bernstein",
+            "time_published": "20250625T170126",
+            "authors": [
+                "Mat Di Salvo"
+            ],
+            "summary": "The analysts set a price target of $510, writing that the share price could also benefit from the company's varied initiatives and dominant market position.",
+            "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/Coinbase_flag-gID_7.png",
+            "source": "Decrypt.co",
+            "category_within_source": "n/a",
+            "source_domain": "decrypt.co",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.316726"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.838487"
+                }
+            ],
+            "overall_sentiment_score": 0.197979,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.75957",
+                    "ticker_sentiment_score": "0.19634",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.205807",
+                    "ticker_sentiment_score": "0.180003",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.103778",
+                    "ticker_sentiment_score": "0.230039",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Missed Out on the Circle IPO? This Cryptocurrency Investment Might Be the Real Winner in the Long Run  ( Hint: It's Not Robinhood or Bitcoin ) .",
+            "url": "https://www.fool.com/investing/2025/06/25/missed-out-on-the-circle-ipo-this-cryptocurrency-i/",
+            "time_published": "20250625T110000",
+            "authors": [
+                "Adam Spatacco"
+            ],
+            "summary": "Circle stock has rocketed by more than 600% since going public just a few weeks ago.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F822644%2Fvirtual-wallet-bitcoin-savings-coinbase.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "IPO",
+                    "relevance_score": "0.310843"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.980922"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.538269"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.5"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.890401"
+                }
+            ],
+            "overall_sentiment_score": 0.214138,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MA",
+                    "relevance_score": "0.058903",
+                    "ticker_sentiment_score": "0.0",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.058903",
+                    "ticker_sentiment_score": "0.074988",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.624759",
+                    "ticker_sentiment_score": "0.312999",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.117486",
+                    "ticker_sentiment_score": "0.04472",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRCL",
+                    "relevance_score": "0.117486",
+                    "ticker_sentiment_score": "0.057459",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "WMT",
+                    "relevance_score": "0.058903",
+                    "ticker_sentiment_score": "0.074988",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.058903",
+                    "ticker_sentiment_score": "0.157001",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.117486",
+                    "ticker_sentiment_score": "0.101057",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        },
+        {
+            "title": "Is Wall Street Missing the Boat on Coinbase's Stablecoin Revolution?",
+            "url": "https://www.zacks.com/commentary/2546944/is-wall-street-missing-the-boat-on-coinbases-stablecoin-revolution",
+            "time_published": "20250624T193300",
+            "authors": [
+                "Andrew Rocco"
+            ],
+            "summary": "Coinbase, the leading crypto exchange, is poised to capitalize on the burgeoning crypto economy, driven by increasing adoption and the often overlooked yet rapidly growing stablecoin business.",
+            "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/a8/346.jpg",
+            "source": "Zacks Commentary",
+            "category_within_source": "n/a",
+            "source_domain": "www.zacks.com",
+            "topics": [
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Earnings",
+                    "relevance_score": "0.87644"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "1.0"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.999326"
+                }
+            ],
+            "overall_sentiment_score": 0.329245,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.498587",
+                    "ticker_sentiment_score": "0.433945",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "V",
+                    "relevance_score": "0.13347",
+                    "ticker_sentiment_score": "0.275889",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "CRCL",
+                    "relevance_score": "0.263231",
+                    "ticker_sentiment_score": "0.176201",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.06697",
+                    "ticker_sentiment_score": "0.121491",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.06697",
+                    "ticker_sentiment_score": "0.134357",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.06697",
+                    "ticker_sentiment_score": "0.134357",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:USDT",
+                    "relevance_score": "0.06697",
+                    "ticker_sentiment_score": "0.231955",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        },
+        {
+            "title": "Billionaire Philippe Laffont Thinks This Could Be Worth More Than Amazon, Meta Platforms, and Tesla By 2030",
+            "url": "https://www.fool.com/investing/2025/06/24/billionaire-philippe-laffont-thinks-this-could-be/",
+            "time_published": "20250624T101500",
+            "authors": [
+                "Adam Spatacco"
+            ],
+            "summary": "Philippe Laffont's hedge fund, Coatue Management, sees cryptocurrency as a huge opportunity over the next five years.",
+            "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F822451%2Fgettyimages-2149225006.jpg&op=resize&w=700",
+            "source": "Motley Fool",
+            "category_within_source": "n/a",
+            "source_domain": "www.fool.com",
+            "topics": [
+                {
+                    "topic": "Technology",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Finance",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Blockchain",
+                    "relevance_score": "0.9545"
+                },
+                {
+                    "topic": "Economy - Monetary",
+                    "relevance_score": "0.158519"
+                },
+                {
+                    "topic": "Retail & Wholesale",
+                    "relevance_score": "0.25"
+                },
+                {
+                    "topic": "Financial Markets",
+                    "relevance_score": "0.214378"
+                },
+                {
+                    "topic": "Manufacturing",
+                    "relevance_score": "0.25"
+                }
+            ],
+            "overall_sentiment_score": 0.277299,
+            "overall_sentiment_label": "Somewhat-Bullish",
+            "ticker_sentiment": [
+                {
+                    "ticker": "MSFT",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.189376",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "MSTR",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.030422",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "META",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.189376",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "NVDA",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.189376",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "TSLA",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.189376",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "AMZN",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.189376",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                },
+                {
+                    "ticker": "COIN",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.14941",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "GME",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.030422",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "FOREX:USD",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.043978",
+                    "ticker_sentiment_label": "Neutral"
+                },
+                {
+                    "ticker": "CRYPTO:BTC",
+                    "relevance_score": "0.870117",
+                    "ticker_sentiment_score": "0.469789",
+                    "ticker_sentiment_label": "Bullish"
+                },
+                {
+                    "ticker": "CRYPTO:ETH",
+                    "relevance_score": "0.046452",
+                    "ticker_sentiment_score": "0.229438",
+                    "ticker_sentiment_label": "Somewhat-Bullish"
+                }
+            ]
+        }
+    ]
+}
